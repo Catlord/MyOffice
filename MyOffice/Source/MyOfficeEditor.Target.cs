@@ -9,6 +9,8 @@ public class MyOfficeEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 
-		ExtraModuleNames.AddRange( new string[] { "MyOffice" } );
-	}
+        // bUseUnityBuild = false;
+        // bUsePCHFiles = false;
+        ExtraModuleNames.AddRange(new string[] { "MyOffice" });
+    }
 }
