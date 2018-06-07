@@ -13,5 +13,6 @@ MyOffice/Content/StarterContent/
 ######################
 *.VC.db
 *.VC.opendb
+*.sln
 *.suo
 *.mp4
